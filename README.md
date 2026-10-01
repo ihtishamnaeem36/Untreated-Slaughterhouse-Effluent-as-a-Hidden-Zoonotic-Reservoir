@@ -2,6 +2,7 @@
 
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23077892.svg)](https://doi.org/10.5281/zenodo.23077892)
 [![NCBI BioProject](https://img.shields.io/badge/NCBI%20BioProject-PRJNA1218556-green.svg)](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1218556)
 
 This repository contains the computational pipelines, ecological modeling workflows, curated taxonomic abundance tables, and reproducible figure generation scripts for:
@@ -155,6 +156,7 @@ The composite Zoonotic Hazard Index (ZHI) integrates:
 - **NCBI BioProject Accession**: [PRJNA1218556](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1218556)
 - **NCBI BioSample Accessions**: SAMN46789121–SAMN46789126
 - **NCBI SRA Run Accessions**: SRR32263152–SRR32263157
+- **Zenodo Permanent Archive**: [10.5281/zenodo.23077892](https://doi.org/10.5281/zenodo.23077892)
 - Curated taxonomic and virome matrices are provided in the [`data/`](./data/) directory of this repository.
 
 ---
